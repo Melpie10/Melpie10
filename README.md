@@ -6,7 +6,7 @@
 
 ## Get to know Me 
 
-![mybanner](../Melpie10/assets/melpiebanner.JPEG)
+![mybanner](../assets/melpiebanner.JPEG)
 
 ![](https://drive.google.com/file/d/1_kggrFKvRxV27nVx5p3BW_tCiLXhwz06/view?usp=sharing)
 
