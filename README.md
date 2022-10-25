@@ -8,6 +8,8 @@
 
 ![mybanner](../Melpie10/assets/melpiebanner.JPEG)
 
+![](https://drive.google.com/file/d/1_kggrFKvRxV27nVx5p3BW_tCiLXhwz06/view?usp=sharing)
+
 I'm a full-stack web developer in NJ side of the Philly Metro Area, specializing in Back-end. 
 
 I've been coding for around a year, currently developing a Baby Shower game app inspired by my mid-pandemic pregnancy. 
