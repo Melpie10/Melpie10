@@ -2,10 +2,11 @@
 
 #### visit my portfolio!
 
-
 <a href="https:///">![Deployed App](https://img.shields.io/badge/-Mel%20Pietrowski%20Portfolio-lightgrey)</a>
 
 ## Get to know Me 
+
+![mybanner](../Melpie10/assets/melpiebanner.JPEG)
 
 I'm a full-stack web developer in NJ side of the Philly Metro Area, specializing in Back-end. 
 
