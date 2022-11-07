@@ -6,7 +6,7 @@
 
 ## Get to know Me 
 
-![mybanner](../assets/melpiebanner.JPEG)
+![mybanner]()
 
 I'm a full-stack web developer in NJ side of the Philly Metro Area, specializing in Back-end. 
 
