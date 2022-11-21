@@ -1,18 +1,19 @@
 # Melany Pietrowski: Full-Stack Web Developer
 
-#### visit my portfolio!
+<!-- #### visit my portfolio!
 
-<a href="https:///">![Deployed App](https://img.shields.io/badge/-Mel%20Pietrowski%20Portfolio-lightgrey)</a>
+<a href="https:///">![Deployed App](https://img.shields.io/badge/-Mel%20Pietrowski%20Portfolio-lightgrey)</a> -->
 
 ## Get to know Me 
 
-![mybanner]()
+<!-- ![mybanner]() -->
 
 I'm a full-stack web developer in NJ side of the Philly Metro Area, specializing in Back-end. 
 
-I've been coding for around a year, currently developing a Baby Shower game app inspired by my mid-pandemic pregnancy. 
+I've been coding for around a year, currently developing a Baby Shower game app! Check back soon for more updates. 
 
-If you came to my home, you would find me and my husband having fun with our new baby boy! 
+A couple fun facts about me: I enjoy working with powertools, could spend hours on my iPad sketching and designing on Procreate, and I have a Master's Degree in Project Management. 
+
 
 ## 🔧 Coding Skills
 
