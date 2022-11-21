@@ -48,7 +48,7 @@ A couple fun facts about me: I enjoy working with powertools, could spend hours 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melpie10)](https://git.io/streak-stats)
 
-##  Intrested in collaborating? 
+##  Interested in collaborating? 
 
 #### Click on the icons below to contact me!
 <a href="https://www.linkedin.com/in/melanypietrowski/" target="_blank" rel="noopener noreferrer">
