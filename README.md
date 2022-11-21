@@ -6,6 +6,7 @@
 
 ## Get to know Me 
 
+![HeroMelPie 001](https://user-images.githubusercontent.com/92319522/203163385-dc155fbe-7557-4b36-b098-e319ac32d711.jpeg)
 <!-- ![mybanner]() -->
 
 I'm a full-stack web developer in NJ side of the Philly Metro Area, specializing in Back-end. 
